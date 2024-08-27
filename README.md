@@ -46,6 +46,8 @@ Key Findings:
 
 ## Projects
 
+### Language Models (LLM)
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -54,50 +56,64 @@ Key Findings:
       <img src="https://github.com/user-attachments/assets/ef9ba66d-5c46-430e-bcc4-b14d4d32d332" width="100%" alt="GPT2 Medical Language Fine Tuning">
       <br>
       <a href="https://github.com/rafael-caetano/GPT2_Medical_Language_Fine_Tuning">View on GitHub</a>
-      <br>
+      <br><br>
       <small>NLP | GPT-2 | Medical AI</small>
     </td>
     <td align="center" width="33%">
-      <h3>PPO Car Racer v2</h3>
-      <p>Implementing Proximal Policy Optimization for the CarRacing-v2 environment.</p>
-      <video src="https://github.com/user-attachments/assets/9c87a6bc-446f-4660-b2e5-8bd734e038e5" width="100%" />
-      <br>
-      <a href="https://github.com/rafael-caetano/PPO_Car_Racer_v2">View on GitHub</a>
-      <br>
-      <small>Reinforcement Learning | PPO | OpenAI Gym</small>
     </td>
     <td align="center" width="33%">
-      <h3>A3C Kung-Fu Master</h3>
-      <p>Deep reinforcement learning agent for Atari Kung-Fu Master using modified A2C.</p>
-      <video src="https://github.com/user-attachments/assets/0fc3aa1d-753f-42ed-935b-f2ed057afdfa" width="100%" />
-      <br>
-      <a href="https://github.com/rafael-caetano/A3C_Kung-Fu_Master">View on GitHub</a>
-      <br>
-      <small>Reinforcement Learning | A3C | Atari</small>
     </td>
   </tr>
+</table>
+
+### Reinforcement Learning
+
+<table>
   <tr>
     <td align="center" width="33%">
       <h3>Lunar Lander DQN VS DDQN</h3>
       <p>Comparing DQN and Double DQN algorithms for the Lunar Lander environment.</p>
-      <video src="https://github.com/user-attachments/assets/5c3e7e6b-c629-43c4-9759-7def510ddb69" width="100%" />
+      <video src="https://github.com/user-attachments/assets/5c3e7e6b-c629-43c4-9759-7def510ddb69" width="100%"></video>
       <br>
       <a href="https://github.com/rafael-caetano/Lunar_Lander_DQN_VS_DDQN">View on GitHub</a>
-      <br>
+      <br><br>
       <small>Reinforcement Learning | DQN | DDQN</small>
     </td>
     <td align="center" width="33%">
       <h3>Deep Convolutional Q-Learning for MsPacman</h3>
       <p>Deep RL agent using CNNs to play Ms. Pac-Man, comparing DQN and Dueling DQN.</p>
-      <video src="https://github.com/user-attachments/assets/93800efa-8370-4644-b624-3537cbc9d817" width="100%" />
+      <video src="https://github.com/user-attachments/assets/93800efa-8370-4644-b624-3537cbc9d817" width="100%"></video>
       <br>
       <a href="https://github.com/rafael-caetano/Deep_Convolutional_Q-Learning_for_MsPacman">View on GitHub</a>
-      <br>
+      <br><br>
       <small>Reinforcement Learning | CNN | Atari</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>A3C Kung-Fu Master</h3>
+      <p>Deep reinforcement learning agent for Atari Kung-Fu Master using modified A2C.</p>
+      <video src="https://github.com/user-attachments/assets/0fc3aa1d-753f-42ed-935b-f2ed057afdfa" width="100%"></video>
+      <br>
+      <a href="https://github.com/rafael-caetano/A3C_Kung-Fu_Master">View on GitHub</a>
+      <br><br>
+      <small>Reinforcement Learning | A3C | Atari</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>PPO Car Racer v2</h3>
+      <p>Implementing Proximal Policy Optimization for the CarRacing-v2 environment.</p>
+      <video src="https://github.com/user-attachments/assets/9c87a6bc-446f-4660-b2e5-8bd734e038e5" width="100%"></video>
+      <br>
+      <a href="https://github.com/rafael-caetano/PPO_Car_Racer_v2">View on GitHub</a>
+      <br><br>
+      <small>Reinforcement Learning | PPO | OpenAI Gym</small>
+    </td>
+    <td align="center" width="33%">
+    </td>
+    <td align="center" width="33%">
     </td>
   </tr>
 </table>
-
 
 <!-- 
 ## Future Deep Learning Projects
