@@ -1,18 +1,15 @@
 # Rafael Caetano
 
 ## About Me
+With a robust foundation in biomedical sciences and a passion for passion for data-driven problem-solving, I have honed my analytical and collaborative skills over six years at the Instituto Gulbenkian de Ciência. My work has involved analyzing complex biological data using various statistical and computational techniques, which has deepened my interest in data science and artificial intelligence. 
 
-With a robust foundation in biomedical sciences and a passion for solving complex challenges, I have honed my analytical and collaborative skills over six years at the Instituto Gulbenkian de Ciência. My work involved analyzing large-scale genetic data from fruit flies using statistical and bioinformatic techniques, deepening my interest in data science. This led me to pursue a second master's degree in Analysis and Engineering of Big Data while continuing my research.
-
-I am passionate about integrating my biomedical research background with advanced data science and AI skills to address complex problems in various domains, particularly in healthcare technology.
-
-![Placeholder for a GIF or image representing your work](https://via.placeholder.com/800x400?text=Placeholder+for+Work+Image)
+Currently, I'm expanding my expertise by pursuing advanced studies in data analysis and engineering, while continuing to apply these skills in biological research contexts. I'm particularly excited about the potential of integrating life sciences knowledge with cutting-edge data science and AI techniques to address complex problems across various domains, including healthcare and biotechnology.
 
 ## Education
 
 - **M.S. Analysis and Engineering of Big Data** (In Progress)
   - Nova School of Science and Technology
-  - Expected Graduation: [Year]
+  - Expected Graduation: [2025]
 
 - **M.S. Biomedical Sciences**
   - Instituto de Higiene e Medicina Tropical (IHMT)
@@ -25,17 +22,27 @@ I am passionate about integrating my biomedical research background with advance
 
 ## Professional Experience
 
-### Research Technician | Instituto Gulbenkian de Ciência (IGC) | Jul 2016 - Present
+### Research Technician | Instituto Gulbenkian de Ciência (IGC)
+*May 2018 - June 2024*
 
-- Part of the Host-Microbe Interactions group under Dr. Luis Teixeira, focusing on Drosophila melanogaster and Wolbachia interactions.
-- Spearheaded a Genome Wide Association Study (GWAS) to identify genes influencing Wolbachia levels, applying statistical and Machine Learning methodologies.
-- Managed Drosophila populations with varied Wolbachia strains, analyzing trans-generational transmission dynamics and developing a predictive transmission model.
+Part of a research group focusing on host-microbe interactions, specifically studying Drosophila melanogaster and its endosymbionts.
 
-### Master's Thesis | Instituto de Higiene e Medicina Tropical (IHMT) | May 2018 - Dec 2017
+Key Contributions:
+- Conducted a Genome Wide Association Study (GWAS) to investigate genetic factors influencing endosymbiont levels
+  - Applied advanced statistical and Machine Learning methodologies
+- Managed insect populations with varied endosymbiont strains
+  - Analyzed multi-generational transmission patterns
+  - Developed predictive models for symbiont inheritance
 
-- Guided by Dr. João Tavanez and Dr. Celso Cunha, focused on Hepatitis Delta Virus (HDV)-induced hepatocellular carcinoma.
-- Unravelled alterations in splicing patterns induced by HDV in the RBM5 tumor suppressor gene.
-- Discovered an HDV-induced increase in the activity of the STAT3 transcription factor under the regulation of RBM5.
+### Master's Thesis Research | Instituto de Higiene e Medicina Tropical (IHMT)
+*July 2016 - December 2017*
+
+Focused on virus-induced hepatocellular carcinoma, studying the interactions between viral infection and tumor suppressor genes.
+
+Key Findings:
+- Investigated alterations in splicing patterns induced by viral infection in a key tumor suppressor gene
+- Discovered virus-induced changes in the activity of an important transcription factor
+  - Explored the regulatory relationship between this factor and the studied tumor suppressor gene
 
 ## Projects
 
