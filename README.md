@@ -46,40 +46,58 @@ Key Findings:
 
 ## Projects
 
-### GPT2 Medical Language Fine Tuning
-[GitHub Repository](https://github.com/rafael-caetano/GPT2_Medical_Language_Fine_Tuning)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>GPT2 Medical Language Fine Tuning</h3>
+      <p>Fine-tuning a GPT-2 model on medical data for enhanced medical question answering.</p>
+      <img src="https://github.com/user-attachments/assets/ef9ba66d-5c46-430e-bcc4-b14d4d32d332" width="100%" alt="GPT2 Medical Language Fine Tuning">
+      <br>
+      <a href="https://github.com/rafael-caetano/GPT2_Medical_Language_Fine_Tuning">View on GitHub</a>
+      <br>
+      <small>NLP | GPT-2 | Medical AI</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>PPO Car Racer v2</h3>
+      <p>Implementing Proximal Policy Optimization for the CarRacing-v2 environment.</p>
+      <video src="https://github.com/user-attachments/assets/9c87a6bc-446f-4660-b2e5-8bd734e038e5" width="100%" />
+      <br>
+      <a href="https://github.com/rafael-caetano/PPO_Car_Racer_v2">View on GitHub</a>
+      <br>
+      <small>Reinforcement Learning | PPO | OpenAI Gym</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>A3C Kung-Fu Master</h3>
+      <p>Deep reinforcement learning agent for Atari Kung-Fu Master using modified A2C.</p>
+      <video src="https://github.com/user-attachments/assets/0fc3aa1d-753f-42ed-935b-f2ed057afdfa" width="100%" />
+      <br>
+      <a href="https://github.com/rafael-caetano/A3C_Kung-Fu_Master">View on GitHub</a>
+      <br>
+      <small>Reinforcement Learning | A3C | Atari</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Lunar Lander DQN VS DDQN</h3>
+      <p>Comparing DQN and Double DQN algorithms for the Lunar Lander environment.</p>
+      <video src="https://github.com/user-attachments/assets/5c3e7e6b-c629-43c4-9759-7def510ddb69" width="100%" />
+      <br>
+      <a href="https://github.com/rafael-caetano/Lunar_Lander_DQN_VS_DDQN">View on GitHub</a>
+      <br>
+      <small>Reinforcement Learning | DQN | DDQN</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>Deep Convolutional Q-Learning for MsPacman</h3>
+      <p>Deep RL agent using CNNs to play Ms. Pac-Man, comparing DQN and Dueling DQN.</p>
+      <video src="https://github.com/user-attachments/assets/93800efa-8370-4644-b624-3537cbc9d817" width="100%" />
+      <br>
+      <a href="https://github.com/rafael-caetano/Deep_Convolutional_Q-Learning_for_MsPacman">View on GitHub</a>
+      <br>
+      <small>Reinforcement Learning | CNN | Atari</small>
+    </td>
+  </tr>
+</table>
 
-Description of the project and its significance in medical NLP.
-
-![Placeholder for GPT2 Medical Language Fine Tuning GIF](https://via.placeholder.com/600x300?text=GPT2+Medical+Language+Fine+Tuning+GIF)
-
-### PPO Car Racer v2
-[GitHub Repository](https://github.com/rafael-caetano/PPO_Car_Racer_v2)
-
-Overview of the Proximal Policy Optimization implementation for the Car Racer environment.
-
-![Placeholder for PPO Car Racer v2 GIF](https://via.placeholder.com/600x300?text=PPO+Car+Racer+v2+GIF)
-
-### A3C Kung-Fu Master
-[GitHub Repository](https://github.com/rafael-caetano/A3C_Kung-Fu_Master)
-
-Explanation of the Asynchronous Advantage Actor-Critic (A3C) algorithm applied to the Kung-Fu Master game.
-
-![Placeholder for A3C Kung-Fu Master GIF](https://via.placeholder.com/600x300?text=A3C+Kung-Fu+Master+GIF)
-
-### Lunar Lander DQN VS DDQN
-[GitHub Repository](https://github.com/rafael-caetano/Lunar_Lander_DQN_VS_DDQN)
-
-Comparative analysis of Deep Q-Network (DQN) and Double Deep Q-Network (DDQN) for the Lunar Lander environment.
-
-![Placeholder for Lunar Lander DQN VS DDQN GIF](https://via.placeholder.com/600x300?text=Lunar+Lander+DQN+VS+DDQN+GIF)
-
-### Deep Convolutional Q-Learning for MsPacman
-[GitHub Repository](https://github.com/rafael-caetano/Deep_Convolutional_Q-Learning_for_MsPacman)
-
-Implementation of Deep Convolutional Q-Learning for the MsPacman game.
-
-![Placeholder for Deep Convolutional Q-Learning for MsPacman GIF](https://via.placeholder.com/600x300?text=Deep+Convolutional+Q-Learning+for+MsPacman+GIF)
 
 <!-- 
 ## Future Deep Learning Projects
@@ -126,6 +144,8 @@ Description of another machine learning project in the pipeline.
 - 1st and 2nd Católica Biomedical Research Centre day (2023)
 - Meetup - Building AI based Startups, NOVA-FCT (2023)
 - 212th Magma Talent Bootcamp, NOVA-FCT (2024)
+- Digital With Purpose, Cascais (2024)
+- Medica AI - The Conference, Fundação Champalimaud (2024)
 
 ## Outreach and Mentoring
 
