@@ -44,20 +44,49 @@ Key Findings:
 - Discovered virus-induced changes in the activity of an important transcription factor
   - Explored the regulatory relationship between this factor and the studied tumor suppressor gene
 
-## Projects
+# Projects
 
-### Language Models (LLM)
+### Machine Learning
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>GPT2 Medical Language Fine Tuning</h3>
-      <p>Fine-tuning a GPT-2 model on medical data for enhanced medical question answering.</p>
-      <img src="https://github.com/user-attachments/assets/ef9ba66d-5c46-430e-bcc4-b14d4d32d332" width="100%" alt="GPT2 Medical Language Fine Tuning">
+      <h3>Regression exploration</h3>
+      <p>Comprehensive analysis of various regression techniques applied to real-world scenarios such as salary prediction and company profit forecasting.</p>
+      <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration">
       <br>
-      <a href="https://github.com/rafael-caetano/GPT2_Medical_Language_Fine_Tuning">View on GitHub</a>
+      <a href="https://github.com/rafael-caetano/Regression_exploration">View on GitHub</a>
       <br><br>
-      <small>NLP | GPT-2 | Medical AI</small>
+      <small>Regression | Linear Regression | Polynomial Regression | Salary Prediction | Profit Forecasting</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>Regression energy production</h3>
+      <p>Comparison of traditional regression models and AutoML tools for predicting energy production in a power generation system based on environmental conditions.</p>
+      <img src="https://github.com/user-attachments/assets/ad6b808b-c877-4242-abbd-b87fe605c7ff" width="100%" alt="windmils">
+      <br>
+      <a href="https://github.com/rafael-caetano/Regression_energy_production">View on GitHub</a>
+      <br><br>
+      <small>Regression | AutoML | Energy Production | AutoGluon | TPOT</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>Classification exploration</h3>
+      <p>Comprehensive comparison of seven different machine learning models for predicting car purchases based on client age and estimated salary.</p>
+      <img src="https://github.com/user-attachments/assets/a89f0062-5ef2-4370-af84-e376884ab77d" width="100%" alt="kernel_svm_decision_boundary_test_set">
+      <br>
+      <a href="https://github.com/rafael-caetano/classification_exploration">View on GitHub</a>
+      <br><br>
+      <small>Classification | Machine Learning | Car Purchase Prediction | Model Comparison</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Classification Breast Cancer</h3>
+      <p>Implementation and comparison of various machine learning models, including AutoML approaches, for classifying breast cancer tumors as benign or malignant.</p>
+      <img src="https://github.com/user-attachments/assets/50b14412-1119-46c7-97b6-c104550f5478" width="100%" alt="breast cancer detection">
+      <br>
+      <a href="https://github.com/rafael-caetano/Classification_breast_cancer">View on GitHub</a>
+      <br><br>
+      <small>Classification | Breast Cancer Detection | AutoML | Model Comparison</small>
     </td>
     <td align="center" width="33%">
     </td>
@@ -115,23 +144,25 @@ Key Findings:
   </tr>
 </table>
 
-<!-- 
-## Future Deep Learning Projects
+### Natural Language Processing
 
-### Project 1: [Project Name]
-Brief description of the upcoming deep learning project.
-
-### Project 2: [Project Name]
-Brief description of another planned deep learning project.
-
-## Future Machine Learning Projects
-
-### Project 1: [Project Name]
-Overview of a future machine learning project you're planning to work on.
-
-### Project 2: [Project Name]
-Description of another machine learning project in the pipeline.
--->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>GPT2 Medical Language Fine Tuning</h3>
+      <p>Fine-tuning a GPT-2 model on medical data for enhanced medical question answering.</p>
+      <img src="https://github.com/user-attachments/assets/ef9ba66d-5c46-430e-bcc4-b14d4d32d332" width="100%" alt="GPT2 Medical Language Fine Tuning">
+      <br>
+      <a href="https://github.com/rafael-caetano/GPT2_Medical_Language_Fine_Tuning">View on GitHub</a>
+      <br><br>
+      <small>NLP | GPT-2 | Medical AI</small>
+    </td>
+    <td align="center" width="33%">
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
 
 ## Technical Skills
 
