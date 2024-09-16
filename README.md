@@ -47,7 +47,6 @@ Key Findings:
 # Projects
 
 ### Machine Learning
-
 <table>
   <tr>
     <td align="center" width="33%">
@@ -87,6 +86,26 @@ Key Findings:
       <a href="https://github.com/rafael-caetano/Classification_breast_cancer">View on GitHub</a>
       <br><br>
       <small>Classification | Breast Cancer Detection | AutoML | Model Comparison</small>
+    </td>
+    <td align="center" width="33%">
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+### Unsupervised Learning
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Mall Customers Segmentation</h3>
+      <p>Comprehensive customer segmentation analysis using K-means and hierarchical clustering on mall customer data, exploring 2D, 3D, and 4D approaches.</p>
+      <img src="https://github.com/user-attachments/assets/f6815aad-8c16-485e-9023-e2c4de422256" width="100%" alt="Mall Customers Segmentation">
+      <br>
+      <a href="https://github.com/your-username/Mall_Customers_Segmentation">View on GitHub</a>
+      <br><br>
+      <small>Unsupervised Learning | K-means | Hierarchical Clustering | Customer Segmentation | Marketing Strategy</small>
     </td>
     <td align="center" width="33%">
     </td>
