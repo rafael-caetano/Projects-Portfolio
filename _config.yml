@@ -1,9 +1,7 @@
-title: "Rafael Caetano - Projects Portfolio"
+title: Rafael Caetano - Projects Portfolio
 logo: /assets/img/head_photo.png
 #description: text below image
 show_downloads: false
-theme: minima
+theme: jekyll-theme-minimal
 
-minima:
-  skin: dark
 
