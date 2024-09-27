@@ -1,10 +1,11 @@
 # Rafael Caetano
 
 ## About Me
-With a robust foundation in biomedical sciences and a passion for passion for data-driven problem-solving, I have honed my analytical and collaborative skills over six years at the Instituto Gulbenkian de Ciência. My work has involved analyzing complex biological data using various statistical and computational techniques, which has deepened my interest in data science and artificial intelligence. 
+I am a biomedical scientist turned data scientist with a Master's degree in Biomedical Sciences. I worked for over six years at the Instituto Gulbenkian de Ciência (IGC), where I researched Drosophila symbiosis using bioinformatic and statistical tools to make sense of complex biological data. This experience with data analysis and my desire to tackle real-world problems led me to pursue a second Master's in Analysis and Engineering of Big Data while I was still working at IGC.
 
-Currently, I'm expanding my expertise by pursuing advanced studies in data analysis and engineering, while continuing to apply these skills in biological research contexts. I'm particularly excited about the potential of integrating life sciences knowledge with cutting-edge data science and AI techniques to address complex problems across various domains, including healthcare and biotechnology.
+I'm currently seeking opportunities to develop my thesis for this degree while contributing my skills to impactful projects.
 
+Please don't hesitate to reach out if you'd like to connect—my contact details are at the end!
 ## Education
 
 - **M.S. Analysis and Engineering of Big Data** (In Progress)
