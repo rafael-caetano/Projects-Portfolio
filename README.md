@@ -109,11 +109,19 @@ Key Findings:
       <small>Unsupervised Learning | K-means | Hierarchical Clustering | Customer Segmentation | Marketing Strategy</small>
     </td>
     <td align="center" width="33%">
+      <h3>Market Basket Optimization</h3> 
+      <p>Comparison of Apriori and ECLAT algorithms for market basket analysis, exploring directional and non-directional product associations to design marketing strategies.</p> 
+      <img src="https://github.com/user-attachments/assets/8fbdea80-652e-419d-8479-865019e66b18" width="100%" alt="market basket optimization example"> 
+      <br>
+      <a href="https://github.com/rafael-caetano/Association_Rule_Learning">View on GitHub</a>
+      <br><br> 
+      <small>Unsupervised Learning | Apriori | ECLAT | Market Basket Optimization | Association Rules</small> 
     </td>
     <td align="center" width="33%">
     </td>
   </tr>
 </table>
+
 
 ### Reinforcement Learning
 
