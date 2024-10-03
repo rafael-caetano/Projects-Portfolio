@@ -185,6 +185,15 @@ Key Findings:
 <table>
   <tr>
     <td align="center" width="33%">
+      <h3>Sentiment Analysis of Restaurant Reviews</h3>
+      <p>Comparing various classification models for sentiment analysis of restaurant reviews.</p>
+      <img src="https://github.com/user-attachments/assets/f9e5bbdd-a745-4906-8a85-e7885b086ddb" width="100%" alt="Sentiment Analysis of Restaurant Reviews">
+      <br>
+      <a href="https://github.com/rafael-caetano/NLP_Restaurant_reviews_classification">View on GitHub</a>
+      <br><br>
+      <small>NLP | Sentiment Analysis | Machine Learning</small>
+    </td>
+    <td align="center" width="33%">
       <h3>GPT2 Medical Language Fine Tuning</h3>
       <p>Fine-tuning a GPT-2 model on medical data for enhanced medical question answering.</p>
       <img src="https://github.com/user-attachments/assets/ef9ba66d-5c46-430e-bcc4-b14d4d32d332" width="100%" alt="GPT2 Medical Language Fine Tuning">
@@ -195,10 +204,9 @@ Key Findings:
     </td>
     <td align="center" width="33%">
     </td>
-    <td align="center" width="33%">
-    </td>
   </tr>
 </table>
+
 
 ## Technical Skills
 
