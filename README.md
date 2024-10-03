@@ -128,6 +128,15 @@ Key Findings:
 <table>
   <tr>
     <td align="center" width="33%">
+      <h3>Advertisement Optimization using Reinforcement Learning</h3>
+      <p>Implementation and comparison of UCB, Thompson Sampling, and Greedy algorithms for ad selection optimization based on click-through rates.</p>
+      <img src="https://github.com/user-attachments/assets/6d5f54c9-9045-4c88-9b3c-4261a15608f7" width="100%" alt="Advertisement Optimization">
+      <br>
+      <a href="https://github.com/rafael-caetano/UCB_vs_Thompson_sampling_Car_ads">View on GitHub</a>
+      <br><br>
+      <small>Reinforcement Learning | UCB | Thompson Sampling | Greedy Algorithm | Ad Optimization</small>
+    </td>
+    <td align="center" width="33%">
       <h3>Lunar Lander DQN VS DDQN</h3>
       <p>Comparing DQN and Double DQN algorithms for the Lunar Lander environment.</p>
       <video src="https://github.com/user-attachments/assets/5c3e7e6b-c629-43c4-9759-7def510ddb69" width="100%"></video>
@@ -145,6 +154,8 @@ Key Findings:
       <br><br>
       <small>Reinforcement Learning | CNN | Atari</small>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <h3>A3C Kung-Fu Master</h3>
       <p>Deep reinforcement learning agent for Atari Kung-Fu Master using modified A2C.</p>
@@ -154,8 +165,6 @@ Key Findings:
       <br><br>
       <small>Reinforcement Learning | A3C | Atari</small>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <h3>PPO Car Racer v2</h3>
       <p>Implementing Proximal Policy Optimization for the CarRacing-v2 environment.</p>
@@ -167,10 +176,9 @@ Key Findings:
     </td>
     <td align="center" width="33%">
     </td>
-    <td align="center" width="33%">
-    </td>
   </tr>
 </table>
+
 
 ### Natural Language Processing
 
