@@ -122,6 +122,34 @@ Key Findings:
   </tr>
 </table>
 
+### Deep Learning
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Artificial Neural Network for Churn Analysis on Bank Customers</h3>
+      <p>Developed an ANN model to predict customer churn in a bank, aiding in customer retention strategies.</p>
+      <img src="https://github.com/user-attachments/assets/728f8d77-d9c8-40a4-bd24-d0e65a17eb6e" width="100%" alt="ANN Churn Analysis">
+      <br>
+      <a href="https://github.com/rafael-caetano/ANN_Churn_analysis_banking">View on GitHub</a>
+      <br><br>
+      <small>Deep Learning | ANN | Customer Churn | Classification</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>Cats vs Dogs Classification using CNN</h3>
+      <p>Built and trained a CNN to classify images of cats and dogs from the Kaggle dataset.</p>
+      <img src="https://github.com/user-attachments/assets/bae14850-3126-4a1d-a18c-3a93c8501451" width="100%" alt="CNN Cat Vs Dog">
+      <br>
+      <a href="https://github.com/rafael-caetano/CNN_dog_vs_cat_classification">View on GitHub</a>
+      <br><br>
+      <small>Deep Learning | CNN | Image Classification | PyTorch</small>
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
+
 
 ### Reinforcement Learning
 
