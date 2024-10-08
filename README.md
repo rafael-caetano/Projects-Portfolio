@@ -100,6 +100,15 @@ Key Findings:
 <table>
   <tr>
     <td align="center" width="33%">
+      <h3>Dimensionality Reduction Techniques Comparison on Wine Dataset</h3> 
+      <p>Comparison of PCA, LDA, and Kernel PCA for dimensionality reduction on the Wine dataset, evaluated using Logistic Regression as the classifier.</p> 
+      <img src="https://github.com/user-attachments/assets/41e5c366-9186-4eed-91ef-d7553e48ec75" width="100%" alt="Dimensionality Reduction"> 
+      <br>
+      <a href="https://github.com/rafael-caetano/Dimensionality_Reduction_Wine_dataset">View on GitHub</a>
+      <br><br> 
+      <small>Unsupervised Learning | PCA | LDA | Kernel PCA | Wine Dataset</small> 
+    </td>
+    <td align="center" width="33%">
       <h3>Mall Customers Segmentation</h3>
       <p>Comprehensive customer segmentation analysis using K-means and hierarchical clustering on mall customer data, exploring 2D, 3D, and 4D approaches.</p>
       <img src="https://github.com/user-attachments/assets/f6815aad-8c16-485e-9023-e2c4de422256" width="100%" alt="Mall Customers Segmentation">
@@ -117,10 +126,9 @@ Key Findings:
       <br><br> 
       <small>Unsupervised Learning | Apriori | ECLAT | Market Basket Optimization | Association Rules</small> 
     </td>
-    <td align="center" width="33%">
-    </td>
   </tr>
 </table>
+
 
 ### Deep Learning
 
