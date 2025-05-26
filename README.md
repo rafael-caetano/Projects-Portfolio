@@ -1,16 +1,18 @@
 # Rafael Caetano
 
 ## About Me
-I am a biomedical scientist turned data scientist with a Master's degree in Biomedical Sciences. I worked for over six years at the Instituto Gulbenkian de Ciência (IGC), where I researched Drosophila symbiosis using bioinformatic and statistical tools to make sense of complex biological data. This experience with data analysis and my desire to tackle real-world problems led me to pursue a second Master's in Analysis and Engineering of Big Data while I was still working at IGC.
+I’m currently Laboratory Manager and AI/ML Researcher at the Champalimaud Foundation, where I’m developing my M.Sc. thesis in Analysis and Engineering of Big Data. I oversee lab operations—managing equipment, budgets, and procurement—while building end-to-end data pipelines, deploying custom SQL and NAS solutions, and developing AI/ML models to decode sensorimotor datasets in *Drosophila*. I also integrate data into interactive dashboards for real-time insights.
 
-I'm currently seeking opportunities to develop my thesis for this degree while contributing my skills to impactful projects.
+Previously, I earned an M.Sc. in Biomedical Sciences from IHMT—studying the RBM5 tumor suppressor in HDV-induced liver cancer—and spent six years at the Instituto Gulbenkian de Ciência leading GWAS and machine-learning projects on *Drosophila* symbiosis.
 
-Please don't hesitate to reach out if you'd like to connect—my contact details are at the end!
+I’m on track to finish my thesis in June 2026 and eager to apply my blend of lab leadership and data science to new challenges. Feel free to reach out for collaborations or a chat!
+
 ## Education
 
 - **M.S. Analysis and Engineering of Big Data** (In Progress)
   - Nova School of Science and Technology
-  - Expected Graduation: [2025]
+  - Thesis writing at Champalimaud Foundation in the Sensorimotor Integration Lab
+  - Expected Graduation: 2026
 
 - **M.S. Biomedical Sciences**
   - Instituto de Higiene e Medicina Tropical (IHMT)
@@ -22,6 +24,21 @@ Please don't hesitate to reach out if you'd like to connect—my contact details
   - Final Grade: 15
 
 ## Professional Experience
+
+### Laboratory Manager and AI/ML Researcher | Champalimaud Foundation
+*November 2025 - Present*
+
+In this role, I oversee all aspects of laboratory operations while developing my Master's thesis using AI/ML to unravel complex sensorimotor integration in *Drosophila*.
+
+Key Contributions:
+- Manage laboratory equipment, procurement and budgets to support high-throughput neurobiology experiments.  
+- Architect and maintain robust data pipelines, including:  
+  - Custom SQL database design and optimization  
+  - NAS storage deployment and backup strategies  
+  - Ensuring data management practices comply with EU GDPR and research regulations   
+- Build and configure analysis workstations and isolated virtual environments for automated data acquisition and processing.  
+- Develop and validate data analysis pipelines and AI/ML models to decode complex sensorimotor datasets.  
+- Partner with neuroscientists and engineers to integrate electrophysiology, imaging, and behavioral data into interactive dashboards for real-time decision support.  
 
 ### Research Technician | Instituto Gulbenkian de Ciência (IGC)
 *May 2018 - June 2024*
@@ -246,12 +263,27 @@ Key Findings:
 
 ## Technical Skills
 
-- **Programming Languages**: Python (Numpy, Pandas, Scikit-learn, Keras, Pytorch, Tensorflow, Huggingface, Streamlit, Matplotlib), R (dplyr, Plotly, ggplot, Tidyverse)
-- **Data Analysis & Visualization**: Proficient in statistical analysis, data visualization using R, Python, Tableau, and PowerBI
-- **Machine Learning & Bioinformatics**: Experienced in applying ML algorithms and bioinformatics to genomic data
-- **Big Data Technologies**: Spark (SQL, PySpark)
-- **Additional Tools**: Linux, LaTeX, Markdown
-- **Biological Techniques**: PCR, qPCR, RT-qPCR, and DNA/RNA extraction, tissue culture
+- **Programming & Data**  
+  Python (pandas, Polars, scikit-learn, TensorFlow, PyTorch), R, SQL
+
+- **Machine Learning & Deep Learning**  
+  Regression, GBM (Gradient Boosting Machines), TabNet, CNNs (Convolutional Neural Networks), LNNs (Liquid Neural Nets), KANs (Kolmogorov–Arnold Networks), LSTMs (Long Short-Term Memory), Transformers, OpenCV
+
+- **Big Data & Workflows**  
+  Apache Spark (PySpark)
+
+- **Visualization**  
+  Power BI, Tableau, matplotlib, Plotly
+
+- **Bioinformatics**  
+  RNA-seq analysis, GWAS workflows
+
+- **Wet-Lab Techniques**  
+  PCR, qPCR, tissue culture
+
+- **DevOps & Tools**  
+  Linux, Git, Docker, Anaconda, uv, Slurm
+
 
 ## Awards and Achievements
 
